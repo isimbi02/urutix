@@ -1,0 +1,45 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "ft-lydia",
+    "ft/broker-matching",
+    "ft/cargo-matching",
+    "ft/truck-owner-dash",
+    "lydia",
+    "main",
+    "merge-superdashboard-into-dev",
+    "new-cargo-owner-dash",
+    "origin",
+    "superadmin",
+    "superdashboard"
+  ],
+  "parent": {
+    "dev": "main",
+    "ft-lydia": "main",
+    "ft/broker-matching": "main",
+    "ft/cargo-matching": "main",
+    "ft/truck-owner-dash": "main",
+    "lydia": "main",
+    "main": null,
+    "merge-superdashboard-into-dev": "main",
+    "new-cargo-owner-dash": "main",
+    "origin": "main",
+    "superadmin": "main",
+    "superdashboard": "main"
+  },
+  "order": [
+    "main",
+    "dev",
+    "ft-lydia",
+    "ft/broker-matching",
+    "ft/cargo-matching",
+    "ft/truck-owner-dash",
+    "lydia",
+    "merge-superdashboard-into-dev",
+    "new-cargo-owner-dash",
+    "origin",
+    "superadmin",
+    "superdashboard"
+  ]
+}
