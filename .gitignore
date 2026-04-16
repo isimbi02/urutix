@@ -11,15 +11,12 @@ build/
 logs/
 
 # Environment variables
-.env
-.env.*
 
 # OS generated files
 .DS_Store
 Thumbs.db
 
 # IDE files
-.vscode/
 .idea/
 
 # SQLite database
@@ -42,3 +39,4 @@ oldservices/**/logs/
 # Large video files
 *.mp4
 frontend/public/*.mp4
+config.bat
